@@ -15,7 +15,7 @@ authorized. I work on that gap from both ends:
 
 Next: how authorization should propagate between agents.
 
-X: [@0xUSDHG](https://x.com/0xUSDHG)## Hi there 👋
+X: [@0xUSDHG](https://x.com/0xUSDHG)
 
 <!--
 **USDHGwang/USDHGwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
